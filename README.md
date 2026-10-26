@@ -13,7 +13,7 @@ I believe the best way to learn is by building. That's why I create personal pla
 - 💻 Building interactive web experiences and exploring modern UI/UX.
 - 📱 Tinkering with Android and device communities.
 - 🌍 Learning how language, automation, and open-source tools shape our digital lives.
-- 🌱 *Currently working on:* [Little Universe](https://github.com/rhfaturr/rizzhold-portfolio) — my personal cosmic-themed digital playground.
+- 🌱 *Currently working on:* [Little Universe](https://rizzhold.github.io/LittleUniverse/) — my personal cosmic-themed digital playground.
 
 ---
 
